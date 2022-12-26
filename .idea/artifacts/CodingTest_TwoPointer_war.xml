@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CodingTest_TwoPointer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CodingTest_TwoPointer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CodingTest_TwoPointer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CodingTest_TwoPointer:war exploded" />
+    </root>
+  </artifact>
+</component>
